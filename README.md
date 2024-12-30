@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #🌾 Projeto: AgriSeg U-Net 🌍
 <img alt="Logo AgriSeg U-Net" src="Doc/agriseg_unet_logo2.png" align="right" width="20%"/>
 
@@ -103,3 +104,6 @@ Coloque as imagens para predição na pasta predict/geo/ e escolha a opção 4 n
 # 📄 Licença
 
 ## Este projeto está licenciado sob a MIT License.
+=======
+# AgriSeg_UNet
+>>>>>>> 347dd8fdf614a29bec62d588a1ff71486c73ca1d
