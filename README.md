@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-#🌾 Projeto: AgriSeg U-Net 🌍
+
+# 🌾 Projeto: AgriSeg U-Net 🌍
 <img alt="Logo AgriSeg U-Net" src="Doc/agriseg_unet_logo2.png" align="right" width="20%"/>
 
-# 📝 Descrição do Projeto
+## 📝 Descrição do Projeto
 AgriSeg U-Net é uma ferramenta baseada em Inteligência Artificial (IA) para segmentação de imagens agrícolas, com foco em identificar padrões de plantio, áreas de falha, resíduos de madeira e outras características relevantes.
 
 # Principais Funcionalidades:
