@@ -35,12 +35,7 @@ models/
 *.keras
 *.ckpt
 
-# Ignore datasets grandes (se quiser incluir links ou scripts para download)
-dataset/
-data/raw/
-data/processed/
-data/train/
-data/val/
+
 
 # Ignore saídas e resultados gerados
 output/
