@@ -30,7 +30,6 @@ build/
 .idea/
 
 # Ignore arquivos de modelos treinados (se não forem necessários no repositório)
-models/
 *.h5
 *.keras
 *.ckpt
@@ -38,8 +37,7 @@ models/
 
 
 # Ignore saídas e resultados gerados
-output/
-predictions/
+
 *.tif
 *.shp
 *.dbf
