@@ -1,0 +1,60 @@
+# Ignore arquivos e diretórios temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore diretórios de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore arquivos de logs e caches
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.tmp
+
+# Ignore diretórios de ambiente virtual
+env/
+venv/
+.venv/
+
+# Ignore dependências do Python instaladas localmente
+*.egg-info/
+dist/
+build/
+
+# Ignore diretórios de IDEs e editores
+.vscode/
+.idea/
+
+# Ignore arquivos de modelos treinados (se não forem necessários no repositório)
+models/
+*.h5
+*.keras
+*.ckpt
+
+# Ignore datasets grandes (se quiser incluir links ou scripts para download)
+dataset/
+data/raw/
+data/processed/
+data/train/
+data/val/
+
+# Ignore saídas e resultados gerados
+output/
+predictions/
+*.tif
+*.shp
+*.dbf
+*.prj
+*.shx
+*.cpg
+
+# Ignore arquivos de configuração locais
+config.json
+.env
+
+# Ignore arquivos de vídeo
+*.mp4
+
